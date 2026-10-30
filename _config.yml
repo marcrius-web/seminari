@@ -6,13 +6,13 @@
 # Los valores con dos puntos, comas o comillas van entre comillas dobles.
 
 # Título de la colección: aparece en la cabecera de la portada, en el pie y en la pestaña del navegador
-title: Bon dia, estem a l'Open Labs!
+title: Miscel·lània i altres textos
 
 # Subtítulo breve bajo el título de la portada; puede dejarse vacío
-tagline: Colección de ejemplo para el Máster en Humanidades y Patrimonio Digitales (UAB)
+tagline: Exemples de textos pel Màster en Humanitats i Patrimoni Digitals (UAB)
 
 # Descripción de una o dos frases: aparece en la portada y en el pie, y la leen los buscadores
-description: "Portadas y títulos de cabecera de ediciones antiguas en castellano, reunidos a partir de bibliotecas digitales enlazadas en Europeana, con sus metadatos y sus transcripciones."
+description: "Textos extrets d'indret misteriosos, poc seriosos i màgics."
 
 # Autoría: nombres de quienes hacen la colección
 author: Núria x 2 i Marc
